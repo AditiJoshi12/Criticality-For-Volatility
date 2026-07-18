@@ -1,0 +1,9 @@
+data/raw/*
+data/processed/*
+results/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/.gitkeep
+__pycache__/
+*.pyc
+.pytest_cache/
