@@ -252,8 +252,7 @@ as *comparison models*, not the centerpiece.
 
 ## References
 
-Standard, widely cited papers behind the methods (verify exact citation
-details before using them in a paper):
+Standard, widely cited papers behind the methods :
 
 - Parkinson (1980) — extreme-value (high–low) variance estimation
 - Garman & Klass (1980) — OHLC variance estimators
